@@ -1,5 +1,6 @@
 # RayTracing
-My implementation of the Ray Tracing in One Weekend book.
+An implementation of the Ray Tracing algorithm as explained in the Ray Tracing in One Weekend book.
+https://raytracing.github.io/
 
 ## Description
 This implementation follows the Ray Tracing in One Weekend book and adds triangle ray tracing.
