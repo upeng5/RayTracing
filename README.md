@@ -2,9 +2,10 @@
 An implementation of the Ray Tracing algorithm as explained in the Ray Tracing in One Weekend book.
 https://raytracing.github.io/
 
-![plot](./triangle_demo.png)
+![Alt text](/triangle_demo.png?raw=true "Triangle Demo")
+
 ## Description
-This implementation follows the Ray Tracing in One Weekend book and adds triangle ray tracing.
+This implementation follows the Ray Tracing in One Weekend book and adds triangle ray intersection.
 
 ## References
 <ul>
